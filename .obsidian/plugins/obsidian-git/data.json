@@ -16,15 +16,15 @@
   "autoBackupAfterFileChange": false,
   "treeStructure": false,
   "refreshSourceControl": true,
-  "basePath": "",
-  "differentIntervalCommitAndPush": false,
+  "basePath": "https://github.com/ErrrMAK/Malak.git",
+  "differentIntervalCommitAndPush": true,
   "changedFilesInStatusBar": false,
   "showedMobileNotice": true,
   "refreshSourceControlTimer": 7000,
   "showBranchStatusBar": true,
   "setLastSaveToLastCommit": false,
   "submoduleRecurseCheckout": false,
-  "gitDir": "",
+  "gitDir": "C:\\Users\\ErMAK\\Documents\\Malak\\.git",
   "showFileMenu": true,
   "autoCommitMessage": "vault backup: {{date}}"
 }
