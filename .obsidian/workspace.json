@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Летопись/06.05.md",
+                "file": "Хроника/Сессия №5 Дисток.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Летопись/06.05.md",
+                "file": "Хроника/Сессия №5 Дисток.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Летопись/06.05.md"
+                "file": "Хроника/Сессия №5 Дисток.md"
               }
             }
           },
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Летопись/06.05.md",
+                "file": "Хроника/Сессия №5 Дисток.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,10 +165,10 @@
   },
   "active": "6099460b9ad0fc36",
   "lastOpenFiles": [
+    "Летопись/06.05.md",
     "Ключевые записи/Записка с павших Юань-ти в гробнице.md",
     "Места/Хижина за смотровой башней.md",
     "Места/Совалирвуд.md",
-    "Летопись/06.05.md",
     "Летопись",
     "Ключевые события/Видения.md",
     "Ключевые записи/Переписка Малака с Лио.md",
