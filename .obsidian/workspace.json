@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Хроника/Сессия №5 Дисток.md",
+                "file": "NPC/Ксрату Хаар.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Хроника/Сессия №5 Дисток.md",
+                "file": "NPC/Ксрату Хаар.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Хроника/Сессия №5 Дисток.md"
+                "file": "NPC/Ксрату Хаар.md"
               }
             }
           },
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Хроника/Сессия №5 Дисток.md",
+                "file": "NPC/Ксрату Хаар.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,8 +165,9 @@
   },
   "active": "6099460b9ad0fc36",
   "lastOpenFiles": [
-    "Места/Хижина Делдеса.md",
     "Хроника/Сессия №5 Дисток.md",
+    "Игровые персонажи/Эорин.md",
+    "Места/Хижина Делдеса.md",
     "Организации/Остатки.md",
     "Места/Шэдоукрик.md",
     "NPC/Семья Клей.md",
@@ -205,7 +206,6 @@
     "NPC/Милора.md",
     "NPC/Салазар Сильверман.md",
     "NPC/Гектор Салива.md",
-    "Ключевые записи/письмо от Салазара к Гардо.md",
     "NPC/files/Pasted image 20230506090847.png",
     "NPC/files/Pasted image 20230506090414.png",
     "NPC/files/Pasted image 20230506090300.png",
