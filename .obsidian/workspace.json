@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ac24bda2db338c28",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NPC/Ксрату Хаар.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NPC/Ксрату Хаар.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -135,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NPC/Ксрату Хаар.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,8 +177,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6099460b9ad0fc36",
+  "active": "252b5c6e983a9236",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git — копия.md",
+    "conflict-files-obsidian-git.md",
+    "Места/Хижина за смотровой башней.md",
+    "Места/Совалирвуд.md",
+    "Ключевые события/Видения.md",
+    "Ключевые записи/Переписка Малака с Лио.md",
+    "Квестовые предметы/Черная жижа.md",
+    "NPC/Иксратухар.md",
+    "NPC/files/Pasted image 20230506184956.png",
+    "NPC/Ксрату Хаар.md",
     "Хроника/Сессия №5 Дисток.md",
     "Игровые персонажи/Эорин.md",
     "Места/Хижина Делдеса.md",
@@ -172,7 +196,6 @@
     "Места/Шэдоукрик.md",
     "NPC/Семья Клей.md",
     "Хроника/Сессия №4 Встреча на дороге.md",
-    "NPC/Ксрату Хаар.md",
     "NPC/Коршад Дюмон.md",
     "NPC/Кважат.md",
     "Квестовые предметы/Галасер Оррен.md",
@@ -198,20 +221,11 @@
     "files/Pasted image 20230505213348.png",
     "files/128138299-fd2a1bb2-6f87-4b50-b306-17550d8adc64.mov",
     "NPC/Жрица Вероника Карбо.md",
-    "NPC/Герцог Астрас.md",
-    "NPC/Борижор.md",
-    "Квестовые предметы/Святой корень Марколетты.md",
-    "Квестовые предметы/Зелье воскрешения на другом плане.md",
-    "Организации/Круг защитника.md",
-    "NPC/Милора.md",
-    "NPC/Салазар Сильверман.md",
-    "NPC/Гектор Салива.md",
     "NPC/files/Pasted image 20230506090847.png",
     "NPC/files/Pasted image 20230506090414.png",
     "NPC/files/Pasted image 20230506090300.png",
     "NPC/files",
     "Места/files/Pasted image 20230505221257.png",
-    "files/Pasted image 20230505175545.png",
     "Untitled.canvas"
   ]
 }
