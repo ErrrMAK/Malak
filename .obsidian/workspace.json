@@ -54,9 +54,74 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3f74e985f7b4f93a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Библиотека Листа/Вампиры Эксандрии.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fe4be56c91e61aae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Библиотека Листа/Вампиры Эксандрии.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9111830ad51056e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Библиотека Листа/Вампиры Эксандрии.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "08db88e20244313f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Библиотека Листа/Вампиры Эксандрии.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6d799741b33b7713",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -130,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Библиотека Листа/Вампиры Эксандрии.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Библиотека Листа/Вампиры Эксандрии.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -171,7 +236,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Библиотека Листа/Вампиры Эксандрии.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -208,16 +273,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b52d195e77336fc0",
+  "active": "6d799741b33b7713",
   "lastOpenFiles": [
-    "Квестовые предметы/Untitled.md",
     "Библиотека Листа/Вампиры Эксандрии.md",
+    "conflict-files-obsidian-git.md",
+    "Квестовые предметы/Untitled.md",
     "NPC/Борижой.md",
     "Хроника/Сессия №6 Встреча с Иксратту Кхар.md",
     "NPC/Иксратту Кхар.md",
     "Хроника/Сессия №5 Дисток.md",
     "NPC/Иксратухар.md",
-    "conflict-files-obsidian-git.md",
     "Библиотека Листа/Устройство жизни и география Аэора с картой.md",
     "Библиотека Листа/Путеводитель по Святых Мест Домунаса.md",
     "Библиотека Листа/Дневник Веспена Хлореса.md",
