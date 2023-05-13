@@ -11,13 +11,8 @@
             "id": "6099460b9ad0fc36",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPC/Коршад Дюмон.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -94,7 +89,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NPC/Коршад Дюмон.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,9 +110,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "NPC/Коршад Дюмон.md"
-              }
+              "state": {}
             }
           },
           {
@@ -135,7 +127,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NPC/Коршад Дюмон.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,9 +156,13 @@
   },
   "active": "6099460b9ad0fc36",
   "lastOpenFiles": [
+    "Хроника/Сессия №6 Встреча с Иксратту Кхар.md",
+    "Квестовые предметы/Untitled.md",
+    "NPC/Борижой.md",
+    "Хроника/Сессия №6 Встреча с Ксатру Хаар.md",
+    "NPC/Коршад Дюмон.md",
     "NPC/Кважат.md",
     "NPC/Иксратту Кхар.md",
-    "Хроника/Сессия №6 Встреча с Ксатру Хаар.md",
     "Хроника/Сессия №5 Дисток.md",
     "Библиотека Листа/Гниги герцога Астраса.md",
     "Библиотека Листа/Дневник Веспена Хлореса.md",
@@ -190,10 +185,6 @@
     "NPC/Лио.md",
     "Игровые персонажи/Малак.md",
     "Игровые персонажи/Лист.md",
-    "Игровые персонажи/Лирия.md",
-    "Игровые персонажи/Видения.md",
-    "Хроника/Сессия №4 Встреча на дороге.md",
-    "Места/Хижина Делдеса.md",
     "Хроника",
     "Игровые персонажи/files/photo_2023-02-14 19.32.33.jpeg",
     "Игровые персонажи/files",
