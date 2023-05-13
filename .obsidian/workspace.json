@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Организации/Цитадель кровавых охотников.md",
+                "file": "NPC/Милора.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Организации/Цитадель кровавых охотников.md",
+                "file": "NPC/Милора.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Организации/Цитадель кровавых охотников.md"
+                "file": "NPC/Милора.md"
               }
             }
           },
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Организации/Цитадель кровавых охотников.md",
+                "file": "NPC/Милора.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,8 +165,8 @@
   },
   "active": "6099460b9ad0fc36",
   "lastOpenFiles": [
-    "Организации/Вампиры.md",
     "Организации/Цитадель кровавых охотников.md",
+    "Организации/Вампиры.md",
     "Хроника/Сессия №6 Встреча с Иксратту Кхар.md",
     "NPC/Иксратту Кхар.md",
     "Квестовые предметы/Untitled.md",
