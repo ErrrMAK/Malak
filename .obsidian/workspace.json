@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPC/Иксратту Кхар.md",
+                "file": "Хроника/Сессия №6 Встреча с Иксратту Кхар.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NPC/Иксратту Кхар.md",
+                "file": "Хроника/Сессия №6 Встреча с Иксратту Кхар.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NPC/Иксратту Кхар.md"
+                "file": "Хроника/Сессия №6 Встреча с Иксратту Кхар.md"
               }
             }
           },
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NPC/Иксратту Кхар.md",
+                "file": "Хроника/Сессия №6 Встреча с Иксратту Кхар.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,6 +165,7 @@
   },
   "active": "6099460b9ad0fc36",
   "lastOpenFiles": [
+    "NPC/Иксратту Кхар.md",
     "Организации/Вампиры.md",
     "Хроника/Сессия №6 Встреча с Иксратту Кхар.md",
     "Квестовые предметы/Untitled.md",
@@ -172,7 +173,6 @@
     "Хроника/Сессия №6 Встреча с Ксатру Хаар.md",
     "NPC/Коршад Дюмон.md",
     "NPC/Кважат.md",
-    "NPC/Иксратту Кхар.md",
     "Хроника/Сессия №5 Дисток.md",
     "Библиотека Листа/Гниги герцога Астраса.md",
     "Библиотека Листа/Дневник Веспена Хлореса.md",
