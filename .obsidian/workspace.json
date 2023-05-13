@@ -48,7 +48,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Хроника/Сессия №6 Встреча с Иксратту Кхар.md",
+                "file": "NPC/Борижой.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Хроника/Сессия №6 Встреча с Иксратту Кхар.md",
+                "file": "NPC/Борижой.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Хроника/Сессия №6 Встреча с Иксратту Кхар.md"
+                "file": "NPC/Борижой.md"
               }
             }
           },
@@ -171,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Хроника/Сессия №6 Встреча с Иксратту Кхар.md",
+                "file": "NPC/Борижой.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -210,10 +210,10 @@
   },
   "active": "b52d195e77336fc0",
   "lastOpenFiles": [
+    "Хроника/Сессия №6 Встреча с Иксратту Кхар.md",
     "NPC/Иксратту Кхар.md",
     "Хроника/Сессия №5 Дисток.md",
     "NPC/Иксратухар.md",
-    "Хроника/Сессия №6 Встреча с Иксратту Кхар.md",
     "conflict-files-obsidian-git.md",
     "Библиотека Листа/Устройство жизни и география Аэора с картой.md",
     "Библиотека Листа/Путеводитель по Святых Мест Домунаса.md",
