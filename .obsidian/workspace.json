@@ -21,19 +21,6 @@
             }
           },
           {
-            "id": "8aa61a6fc7e9f5da",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPC/Иксратухар.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "bfd1e3d59a029bff",
             "type": "leaf",
             "state": {
@@ -61,26 +48,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPC/Иксратту Кхар.md",
+                "file": "Хроника/Сессия №5 Дисток.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
-          },
-          {
-            "id": "9749ae03a685387c",
-            "type": "leaf",
-            "state": {
-              "type": "diff-view",
-              "state": {
-                "file": ".obsidian/workspace.json",
-                "staged": true
-              }
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -154,6 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Хроника/Сессия №5 Дисток.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +152,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Хроника/Сессия №5 Дисток.md"
+              }
             }
           },
           {
@@ -192,6 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Хроника/Сессия №5 Дисток.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -228,12 +208,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9749ae03a685387c",
+  "active": "b52d195e77336fc0",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "NPC/Иксратту Кхар.md",
     "NPC/Иксратухар.md",
     "Хроника/Сессия №6 Встреча с Ксатру Хаар.md",
+    "conflict-files-obsidian-git.md",
     "Библиотека Листа/Устройство жизни и география Аэора с картой.md",
     "Библиотека Листа/Путеводитель по Святых Мест Домунаса.md",
     "Библиотека Листа/Дневник Веспена Хлореса.md",
