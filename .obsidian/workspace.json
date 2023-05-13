@@ -24,9 +24,12 @@
             "id": "8aa61a6fc7e9f5da",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.2.8"
+                "file": "NPC/Иксратухар.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -105,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Библиотека Листа/Путеводитель по Святых Мест Домунаса.md",
+                "file": "NPC/Иксратухар.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Библиотека Листа/Путеводитель по Святых Мест Домунаса.md"
+                "file": "NPC/Иксратухар.md"
               }
             }
           },
@@ -146,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Библиотека Листа/Путеводитель по Святых Мест Домунаса.md",
+                "file": "NPC/Иксратухар.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,6 +179,7 @@
   },
   "active": "8aa61a6fc7e9f5da",
   "lastOpenFiles": [
+    "NPC/Ксрату Хаар.md",
     "Хроника/Сессия №6 Встреча с Ксатру Хаар.md",
     "Библиотека Листа/Устройство жизни и география Аэора с картой.md",
     "Библиотека Листа/Путеводитель по Святых Мест Домунаса.md",
@@ -193,7 +197,6 @@
     "Квестовые предметы/Черная жижа.md",
     "NPC/Иксратухар.md",
     "NPC/files/Pasted image 20230506184956.png",
-    "NPC/Ксрату Хаар.md",
     "Хроника/Сессия №5 Дисток.md",
     "Игровые персонажи/Эорин.md",
     "Места/Хижина Делдеса.md",
