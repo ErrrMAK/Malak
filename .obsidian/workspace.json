@@ -32,9 +32,31 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "bfd1e3d59a029bff",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": ".obsidian/workspace.json",
+                "staged": false
+              }
+            }
+          },
+          {
+            "id": "54052c0840021cfb",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": ".obsidian/workspace.json",
+                "staged": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -108,8 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NPC/Иксратухар.md",
-                "linksCollapsed": false,
+                "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
             }
@@ -130,9 +151,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "NPC/Иксратухар.md"
-              }
+              "state": {}
             }
           },
           {
@@ -149,7 +168,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NPC/Иксратухар.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,8 +177,17 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "4357b72b077de6e0",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -177,8 +204,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8aa61a6fc7e9f5da",
+  "active": "54052c0840021cfb",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "NPC/Иксратухар.md",
     "NPC/Ксрату Хаар.md",
     "Хроника/Сессия №6 Встреча с Ксатру Хаар.md",
     "Библиотека Листа/Устройство жизни и география Аэора с картой.md",
@@ -187,7 +216,6 @@
     "Библиотека Листа/Гниги герцога Астраса.md",
     "Библиотека Листа/Записи о ритуале межпланарного воскрешения.md",
     "Библиотека Листа/Заметки о зелье истинного превращения.md",
-    "conflict-files-obsidian-git.md",
     "Библиотека Листа",
     "conflict-files-obsidian-git — копия.md",
     "Места/Хижина за смотровой башней.md",
@@ -195,7 +223,6 @@
     "Ключевые события/Видения.md",
     "Ключевые записи/Переписка Малака с Лио.md",
     "Квестовые предметы/Черная жижа.md",
-    "NPC/Иксратухар.md",
     "NPC/files/Pasted image 20230506184956.png",
     "Хроника/Сессия №5 Дисток.md",
     "Игровые персонажи/Эорин.md",

@@ -14,7 +14,7 @@
   "syncMethod": "merge",
   "customMessageOnAutoBackup": false,
   "autoBackupAfterFileChange": false,
-  "treeStructure": false,
+  "treeStructure": true,
   "refreshSourceControl": true,
   "basePath": "https://github.com/ErrrMAK/Malak.git",
   "differentIntervalCommitAndPush": false,
