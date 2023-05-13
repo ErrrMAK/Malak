@@ -48,7 +48,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPC/Борижой.md",
+                "file": "Квестовые предметы/Untitled.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NPC/Борижой.md",
+                "file": "Квестовые предметы/Untitled.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NPC/Борижой.md"
+                "file": "Квестовые предметы/Untitled.md"
               }
             }
           },
@@ -171,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NPC/Борижой.md",
+                "file": "Квестовые предметы/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -210,6 +210,8 @@
   },
   "active": "b52d195e77336fc0",
   "lastOpenFiles": [
+    "NPC/Борижой.md",
+    "Квестовые предметы/Untitled.md",
     "Хроника/Сессия №6 Встреча с Иксратту Кхар.md",
     "NPC/Иксратту Кхар.md",
     "Хроника/Сессия №5 Дисток.md",
@@ -236,8 +238,6 @@
     "NPC/Семья Клей.md",
     "Хроника/Сессия №4 Встреча на дороге.md",
     "NPC/Коршад Дюмон.md",
-    "NPC/Кважат.md",
-    "Квестовые предметы/Галасер Оррен.md",
     "Хроника",
     "Игровые персонажи/files/photo_2023-02-14 19.32.33.jpeg",
     "Игровые персонажи/files",
