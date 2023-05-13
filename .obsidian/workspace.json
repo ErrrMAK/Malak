@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Хроника/Вампиры.md",
+                "file": "Организации/Вампиры.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Хроника/Вампиры.md",
+                "file": "Организации/Вампиры.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Хроника/Вампиры.md"
+                "file": "Организации/Вампиры.md"
               }
             }
           },
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Хроника/Вампиры.md",
+                "file": "Организации/Вампиры.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +166,7 @@
   "active": "6099460b9ad0fc36",
   "lastOpenFiles": [
     "Хроника/Сессия №6 Встреча с Иксратту Кхар.md",
-    "Хроника/Вампиры.md",
+    "Организации/Вампиры.md",
     "Квестовые предметы/Untitled.md",
     "NPC/Борижой.md",
     "Хроника/Сессия №6 Встреча с Ксатру Хаар.md",
