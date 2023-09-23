@@ -24,7 +24,7 @@
   "showBranchStatusBar": true,
   "setLastSaveToLastCommit": false,
   "submoduleRecurseCheckout": false,
-  "gitDir": "C:\\Users\\ErMAK\\Documents\\Malak\\.git",
+  "gitDir": "/Users/andrei/Projects/DnD/Wildemount/.git",
   "showFileMenu": true,
   "autoCommitMessage": "vault backup: {{date}}"
 }
